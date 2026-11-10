@@ -1,0 +1,24 @@
+name: skill-status
+version: 1.0.0
+description: "A lifecycle for agent skills: from AI draft to proven in real work."
+author: zmrocny
+license: MIT
+
+targets:
+  - copilot
+  - claude
+  - grok-build
+  - cursor
+  - opencode
+  - codex
+  - gemini
+  - antigravity
+  - windsurf
+  - kiro
+  - agent-skills
+
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}

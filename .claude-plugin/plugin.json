@@ -1,0 +1,11 @@
+{
+  "name": "skill-status",
+  "description": "Skill types (reference, task) and lifecycle statuses (draft, review, test, active, archived).",
+  "version": "1.0.0",
+  "author": {
+    "name": "zmrocny"
+  },
+  "homepage": "https://github.com/zmrocny/skill-status",
+  "repository": "https://github.com/zmrocny/skill-status",
+  "license": "MIT"
+}

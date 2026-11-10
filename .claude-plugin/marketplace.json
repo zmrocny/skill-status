@@ -1,0 +1,14 @@
+{
+  "name": "skill-status",
+  "description": "Skill types and lifecycle statuses for Agent Skills.",
+  "owner": {
+    "name": "zmrocny"
+  },
+  "plugins": [
+    {
+      "name": "skill-status",
+      "source": "./",
+      "description": "Skill types (reference, task) and lifecycle statuses (draft, review, test, active, archived)."
+    }
+  ]
+}
