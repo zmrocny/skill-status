@@ -10,7 +10,7 @@ This repo ships one Agent Skill, `skill-status`, installable through several cha
 | `apm.yml` | APM package manifest. |
 | `.claude-plugin/plugin.json` | Claude Code plugin manifest. |
 | `.claude-plugin/marketplace.json` | Claude Code marketplace listing this repo as one plugin. |
-| `.claude-plugin/icon.png` | Plugin icon for Anthropic's directory. Fixed after first submission. |
+| .claude-plugin/icon.png | Plugin icon for Anthropic's directory. Fixed after first submission. |
 | `README.md` | User-facing description and install instructions. |
 | `LICENSE` | MIT. |
 
