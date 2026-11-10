@@ -47,6 +47,10 @@ APM detects your agents automatically; pick specific ones with `--target`, e.g. 
 
 Copy `skills/skill-status/` into your agent's skills directory, for example `~/.claude/skills/` or `.agents/skills/`.
 
+## Privacy
+
+Skill Status is a plain-text instruction file. It collects no data, makes no network requests and runs no code.
+
 ## License
 
 [MIT](LICENSE)
