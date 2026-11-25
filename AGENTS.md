@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo ships one Agent Skill, `skill-status`, installable through several channels. `README.md` is for users; this file is for agents maintaining the repo.
+This repo ships an Agent Skill for tracking skill types and lifecycle statuses.
 
 ## Layout
 
@@ -8,9 +8,7 @@ This repo ships one Agent Skill, `skill-status`, installable through several cha
 |---|---|
 | `skills/skill-status/SKILL.md` | The skill's main file, read by the user's agent. |
 | `apm.yml` | APM package manifest. |
-| `.claude-plugin/plugin.json` | Claude Code plugin manifest. |
-| `.claude-plugin/marketplace.json` | Claude Code marketplace listing this repo as one plugin. |
-| .claude-plugin/icon.png | Plugin icon for Anthropic's directory. Fixed after first submission. |
+| `.claude-plugin/` | Claude Code plugin metadata, marketplace listing and icon. |
 | `README.md` | User-facing description and install instructions. |
 | `LICENSE` | MIT. |
 
